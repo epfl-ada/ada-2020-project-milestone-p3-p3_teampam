@@ -12,6 +12,8 @@ We also use the Reddit dataset, a signed network containing links between commun
 
 ## Research Questions : 
 
+The idea is to highlight different parameters that might be important in social network edges prediction. In the original paper, they focus on balance and status theory. Here, using a new dataset, we will try to highlight the importance of other parameters.
+
 **Groups ?**
 Are people friends before voters and electors ? (for the wikipedia dataset specially)
 Do there exist groups ?
