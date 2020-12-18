@@ -63,4 +63,4 @@ In addition to the updatings on the conversation, we plan to do 2 meetings per w
 
 ## Notebook :
 
-## Report : 
+## Report : https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_teampam/blob/main/Report_P4.pdf
