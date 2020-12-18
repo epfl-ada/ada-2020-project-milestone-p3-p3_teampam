@@ -61,5 +61,6 @@ We don’t assign particular tasks to anyone. Whenever a person does something, 
 In addition to the updatings on the conversation, we plan to do 2 meetings per week, to discuss our findings that need a detailed explanation, and to discuss the project.
 	
 
-## Questions for Tas :
-Defining a clear path and splitting the work between the team members is not easy. We actually don’t know for sure if our ideas are good, if they can be implemented. So can we change hats at some point in the project ?
+## Notebook :
+
+## Report : 
