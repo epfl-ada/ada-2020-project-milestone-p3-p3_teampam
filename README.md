@@ -55,12 +55,19 @@ Use the weights of the links :  For the new dataset, we have the information abo
 **Week 2:** Finish to implement the clustering methods and sentiment weighting ,compare with the others datasets. Analysis and discussion work. <br>
 **Week 3:** Continuing with analysis, preparing the data story and short video.<br>
 
-## Organization within the team : 
+## Organization within the team (updated): 
 
 We don’t assign particular tasks to anyone. Whenever a person does something, he notify others through the conversation of the group. Thus we have a linear progression and everybody is involved. Plus, it allows a person to find some errors when another one doesn't find it, it allows us to optimize the code. 
 In addition to the updatings on the conversation, we plan to do 2 meetings per week, to discuss our findings that need a detailed explanation, and to discuss the project.
+
+Actually, we did asigned task to separate people for the code :
+- Sinan : Replication of table 3 and 4 for the reddit dataset.
+- Laurine : Time analysis for Reddit and Wikipedia dataset
+- Axel : Weight Analysis for Reddit and Wikipedia dataset
+
+For the report, we all worked on writing our respective part, and we made sure we understood the parts of others (and made sure they are understandable)
 	
 
-## Notebook : https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_teampam/blob/main/P4_final.ipynb
+## Notebook : https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_teampam/blob/main/P4.ipynb
 
 ## Report : https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_teampam/blob/main/Report_P4.pdf
